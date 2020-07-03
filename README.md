@@ -1,7 +1,7 @@
 # vue-sfc-scaffolding with laravel
 
 - Initialize Laravel, composer, npm first. (This will overwrite your webpack.mix.js file, back up yours if you require it.)
-- Can use installer.sh for Initializing if you want. Use command below: <br>
+- Can use installer.sh for Initializing if you want. Use command below in your projects directory: <br>
     ```
     wget https://raw.githubusercontent.com/finaleaf/vue-sfc-scaffolding/master/installer.sh && chmod +x installer.sh && ./installer.sh
     ```    
