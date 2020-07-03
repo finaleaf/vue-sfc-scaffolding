@@ -3,7 +3,7 @@
 - Initialize Laravel, composer, npm first. (This will overwrite your webpack.mix.js file, back up yours if you require it.)
 - Can use installer.sh for Initializing if you want. Use command below: <br>
     ```
-    curl -L https://raw.githubusercontent.com/finaleaf/vue-sfc-scaffolding/master/installer.sh | bash
+    wget https://raw.githubusercontent.com/finaleaf/vue-sfc-scaffolding/master/installer.sh && chmod +x installer.sh && ./installer.sh
     ```    
 - Go to your initialized laravel application root.
 - Run command below: <br>
